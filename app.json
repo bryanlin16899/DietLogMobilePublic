@@ -1,0 +1,7 @@
+{
+  "name": "DietLogMobile",
+  "displayName": "鼻鼻食記",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3658057594613002~5181348916"
+  }
+}
