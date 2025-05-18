@@ -43,7 +43,7 @@
         <td>可愛視覺風格</td>
     </tr>
     <tr>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20speech.gif width=250/></td>
+        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20speech1.gif width=250/></td>
         <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20prompt.gif width=250/></td>
         <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/launch%20screen1.png width=250/></td>
     </tr>
