@@ -31,21 +31,21 @@
         <td>Home Screen</td>
         <td>Diet Records</td>
         <td>Diet Records</td>
-    </tr>
-    <tr>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/home%20screen1.png width=250/></td>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/records%20screen1.png width=250/></td>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/foods%20screen1.png width=250/></td>
-    </tr>
-    <tr>
-        <td>Record diet by speech</td>
-        <td>Record diet by prompt</td>
         <td>Cute visual design</td>
     </tr>
     <tr>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20speech1.gif width=250/></td>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20prompt.gif width=250/></td>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/launch%20screen1.png width=250/></td>
+        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/home%20screen1.png width=300/></td>
+        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/records%20screen1.png width=300/></td>
+        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/foods%20screen1.png width=300/></td>
+        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/launch%20screen1.png width=300/></td>
+    </tr>
+    <tr>
+        <td colspan=2>Record diet by speech</td>
+        <td colspan=2>Record diet by prompt</td>
+    </tr>
+    <tr>
+        <td colspan=2><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20speech2.gif width=300/></td>
+        <td colspan=2><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20prompt2.gif width=300/></td>
     </tr>
 </table>
 

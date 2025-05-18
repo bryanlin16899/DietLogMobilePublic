@@ -31,21 +31,21 @@
         <td>主畫面</td>
         <td>飲食紀錄</td>
         <td>飲食紀錄</td>
+        <td>可愛視覺風格</td>
     </tr>
     <tr>
         <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/home%20screen1.png width=250/></td>
         <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/records%20screen1.png width=250/></td>
         <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/foods%20screen1.png width=250/></td>
+        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/launch%20screen1.png width=300/></td>
     </tr>
     <tr>
-        <td>語音記錄飲食</td>
-        <td>文字輸入記錄</td>
-        <td>可愛視覺風格</td>
+        <td colspan=2>語音記錄飲食</td>
+        <td colspan=2>文字輸入記錄</td>
     </tr>
     <tr>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20speech1.gif width=250/></td>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20prompt.gif width=250/></td>
-        <td><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/launch%20screen1.png width=250/></td>
+        <td colspan=2><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20speech2.gif width=300/></td>
+        <td colspan=2><img src=https://pub-92468b493e0c4a7baddeae8be0a72f4e.r2.dev/record%20by%20prompt2.gif width=300/></td>
     </tr>
 </table>
 
